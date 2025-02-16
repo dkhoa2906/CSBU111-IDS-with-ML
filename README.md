@@ -1,5 +1,7 @@
 ### **CICIDS2017: Machine Learning-Based Intrusion Detection System Evaluation**
 
+#### **Final report:** [ML-Based_IDS_CICIDS2017.pdf](ML-Based_IDS_CICIDS2017.pdf)
+
 #### **Credit**
 - This project is the final project for the Cybersecurity course.
 - Class code: CSBU111.P11.KHBC
